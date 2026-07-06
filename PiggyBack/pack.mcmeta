@@ -1,0 +1,9 @@
+{
+    "pack": {
+        "pack_format": 106,
+        "description": "§6§l◆ PiggyBack ◆\n§aCarry your friends! 26.2",
+        "supported_formats": [71,106],
+        "min_format": 71,
+        "max_format": 106
+    }
+}
